@@ -4,7 +4,7 @@
 
 ## Quick Start
 
-Add   
+Add
 ```
 MONGODB_URI = <your mongodb uri>
 JWT_SECRET = <your jwt secret>
