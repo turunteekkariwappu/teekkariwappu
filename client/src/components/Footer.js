@@ -9,6 +9,7 @@ import optima from '../images/optima.png';
 import fermentus from '../images/fermentus.png';
 import efficio from '../images/efficio.png';
 import asteriski from '../images/asteriski.png';
+import tykry from '../images/tykry.png'
 import fb from '../images/fb_logo.png';
 import ig from '../images/ig_logo.png';
 import www from '../images/www_logo.png';
@@ -182,6 +183,11 @@ class Footer extends Component {
                     <img className="social-media" src={ig} alt="Efficio ry Instagram" /> @efficio.ry
                   </a>
                 </div>
+                <div className="d-flex flex-row justify-content-left align-items-center">
+                  <a href="https://efficio.fi/" className="social-media-link">
+                    <img className="social-media" src={www} alt="efficio.fi" /> efficio.fi
+                  </a>
+                </div>
               </div>
             </Col>
           </Row>
@@ -194,6 +200,28 @@ class Footer extends Component {
                 <div className="d-flex flex-row justify-content-left align-items-center">
                   <a href="https://www.instagram.com/fermentus.ry/" className="social-media-link">
                     <img className="social-media" src={ig} alt="Fermentus ry Instagram" /> @fermentus.ry
+                  </a>
+                </div>
+                <div className="d-flex flex-row justify-content-left align-items-center">
+                  <a href="https://fermentus.fi/" className="social-media-link">
+                    <img className="social-media" src={www} alt="fermentus.fi" /> fermentus.fi
+                  </a>
+                </div>
+              </div>
+            </Col>
+            <Col md={6} className="d-flex flex-row justify-content-center align-items-start">
+              <div style={{ minWidth: '150px', display: 'flex', justifyContent: 'center' }}>
+                <img className="guild-logo-without-margin" src={tykry} alt="TYK ry" />
+              </div>
+              <div className="d-flex flex-column justify-content-left" style={{ width: '170px' }}>
+                <div className="d-flex flex-row justify-content-left align-items-center">
+                  <a href="https://www.instagram.com/tyk_ry/" className="social-media-link">
+                    <img className="social-media" src={ig} alt="TYK ry Instagram" /> @tyk_ry
+                  </a>
+                </div>
+                <div className="d-flex flex-row justify-content-left align-items-center">
+                  <a href="https://tykry.fi/" className="social-media-link">
+                    <img className="social-media" src={www} alt="tykry.fi" /> tykry.fi
                   </a>
                 </div>
               </div>

@@ -99,14 +99,13 @@ class EventList extends Component {
                 <p>
                 {t('info-channels')}
                   <br />
-                  {t('telegram-name')}:&nbsp;
+                  <br />
                   <a class="link-highlight" href={t('telegram-link')}>
-                  {t('telegram-link')}
+                  {t('telegram-name')}
                   </a>
                   <br />
-                  {t('instagram-name')}:&nbsp;
                   <a class="link-highlight" href={t('instagram-link')} >
-                    {t('instagram-link')}
+                  {t('instagram-name')}
                   </a>
                 </p>
                 <p>
@@ -137,16 +136,14 @@ class EventList extends Component {
               <Col sm={12} className="harassment-form-container">
                 <p>
                 {t('problematic-situations-info')}&nbsp;
-                <br/>
                 <a class="link-highlight" href={t('problematic-situations-info-link')}>
-                  {t('problematic-situations-info-link')}
+                  tästä linkistä
                 </a>.&nbsp;
                 {t('problematic-situations-info2')}
                 </p>
                 <p>
-                  {t('problematic-situations-form-text')}:&nbsp;
                   <a class="link-highlight" href={t('problematic-situations-form')}>
-                    {t('problematic-situations-form')}
+                    {t('problematic-situations-form-text')}
                   </a>
                 </p>
               </Col>

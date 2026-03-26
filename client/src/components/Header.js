@@ -47,11 +47,15 @@ class Header extends Component {
                 </b>
                 ,
                 <b>
-                  <a href="https://www.instagram.com/efficio.ry/"> Efficio </a>
+                  <a href="https://www.instagram.com/efficio.ry/"> Efficio</a>
+                </b>
+                ,
+                <b>
+                  <a href="https://www.instagram.com/fermentus.ry/"> Fermentus </a>
                 </b>
                 &
                 <b>
-                  <a href="https://www.instagram.com/fermentus.ry/"> Fermentus</a>
+                  <a href="https://tykry.fi/"> TYKry</a>
                 </b>
                 <br />
                 <br />
@@ -71,10 +75,6 @@ class Header extends Component {
                     </b>
                     ,
                     <b>
-                      <a href="https://tykry.fi/"> TYKry</a>
-                    </b>
-                    ,
-                    <b>
                       <a href="https://aurasoudut.fi/"> Aurasoudut</a>
                     </b>
                     ,
@@ -91,11 +91,15 @@ class Header extends Component {
                     </b>
                     ,
                     <b>
-                      <a href="https://technica.fi/"> Technica ry </a>
+                      <a href="https://technica.fi/"> Technica ry</a>
+                    </b>
+                    ,
+                    <b>
+                      <a href="https://www.tek.fi/fi"> TEK </a>
                     </b>
                     &
                     <b>
-                      <a href="https://www.tek.fi/fi"> TEK</a>
+                      <a href="https://www.loimu.fi/"> Loimu</a>
                     </b>
                   </p>
                 </span>
