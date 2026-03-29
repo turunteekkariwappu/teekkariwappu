@@ -91,6 +91,38 @@ class Header extends Component {
                     </b>
                     ,
                     <b>
+                      <a href="https://www.instagram.com/teknillinenskimbakerho/">  TESKI</a>
+                    </b>
+                    ,
+                    <b>
+                      <a href="https://www.instagram.com/ol_universitiesofturku/">  OL-UT</a>
+                    </b>
+                    ,
+                    <b>
+                      <a href="https://www.boostturku.com/">  Boost</a>
+                    </b>
+                    ,
+                    <b>
+                      <a href=" "> Sikariporras</a>
+                    </b>
+                    ,
+                    <b>
+                      <a href="https://lex.fi/"> Lex ry</a>
+                    </b>
+                    ,
+                    <b>
+                      <a href="https://tyyala.utu.fi/tpo/"> TPO</a>
+                    </b>
+                    ,
+                    <b>
+                      <a href="https://sho.utu.fi/"> SHO</a>
+                    </b>
+                    ,
+                    <b>
+                      <a href="https://sko.utu.fi/"> SKO</a>
+                    </b>
+                    ,
+                    <b>
                       <a href="https://technica.fi/"> Technica ry</a>
                     </b>
                     ,

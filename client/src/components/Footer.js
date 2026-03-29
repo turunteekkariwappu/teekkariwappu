@@ -26,11 +26,6 @@ class Footer extends Component {
               </div>
               <div className="d-flex flex-column justify-content-left" style={{ width: '170px' }}>
                 <div className="d-flex flex-row justify-content-left align-items-center">
-                  <a href="https://www.facebook.com/digitry/" className="social-media-link">
-                    <img className="social-media" src={fb} alt="Digit ry Facebook" /> @digitry
-                  </a>
-                </div>
-                <div className="d-flex flex-row justify-content-left align-items-center">
                   <a href="https://www.instagram.com/digitteekkari" className="social-media-link">
                     <img className="social-media" src={ig} alt="Digit ry Instagram" /> @digitteekkari
                   </a>
@@ -47,11 +42,6 @@ class Footer extends Component {
                 <img className="guild-logo-without-margin" src={nucleus} alt="Nucleus ry" />
               </div>
               <div className="d-flex flex-column justify-content-left" style={{ width: '170px' }}>
-                <div className="d-flex flex-row justify-content-left align-items-center">
-                  <a href="https://www.facebook.com/Nucleusry/" className="social-media-link">
-                    <img className="social-media" src={fb} alt="Nucleus ry Facebook" /> @Nucleusry
-                    </a>
-                </div>
                 <div className="d-flex flex-row justify-content-left align-items-center">
                   <a href="https://www.instagram.com/nucleus_ry/?hl=fi" className="social-media-link">
                     <img className="social-media" src={ig} alt="Nucleus ry Instagram" /> @nucleus_ry
@@ -74,11 +64,6 @@ class Footer extends Component {
               </div>
               <div className="d-flex flex-column justify-content-left" style={{ width: '170px' }}>
                 <div className="d-flex flex-row justify-content-left align-items-center">
-                  <a href="https://www.facebook.com/KonetekniikkaMachinary/" className="social-media-link">
-                    <img className="social-media" src={fb} alt="Machina ry Facebook" /> @Machinary
-                  </a>
-                </div>
-                <div className="d-flex flex-row justify-content-left align-items-center">
                   <a href="https://www.instagram.com/machina.ry/" className="social-media-link">
                     <img className="social-media" src={ig} alt="Machina ry Instagram" /> @machina.ry
                   </a>
@@ -95,11 +80,6 @@ class Footer extends Component {
                 <img className="guild-logo-without-margin" src={adamas} alt="Adamas ry" />
               </div>
               <div className="d-flex flex-column justify-content-left" style={{ width: '170px' }}>
-                <div className="d-flex flex-row justify-content-left align-items-center">
-                  <a href="https://www.facebook.com/MateriaalitekniikankiltaAdamasry" className="social-media-link">
-                    <img className="social-media" src={fb} alt="Adamas ry Facebook" /> @Adamasry
-                  </a>
-                </div>
                 <div className="d-flex flex-row justify-content-left align-items-center">
                   <a href="https://www.instagram.com/adamas.ry/" className="social-media-link">
                     <img className="social-media" src={ig} alt="Adamas ry Instagram" /> @adamas.ry
@@ -137,11 +117,6 @@ class Footer extends Component {
                 <img className="guild-logo-without-margin" src={asteriski} alt="Asteriski ry" />
               </div>
               <div className="d-flex flex-column justify-content-left" style={{ width: '170px' }}>
-                <div className="d-flex flex-row justify-content-left align-items-center">
-                  <a href="https://facebook.com/asteriski/" className="social-media-link">
-                    <img className="social-media" src={fb} alt="Asteriski ry Facebook" /> @asteriski
-                  </a>
-                </div>
                 <div className="d-flex flex-row justify-content-left align-items-center">
                   <a href="https://www.instagram.com/asteriski_ry/" className="social-media-link">
                     <img className="social-media" src={ig} alt="Asteriski ry Instagram" /> @asteriski_ry
